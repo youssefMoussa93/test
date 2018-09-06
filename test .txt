@@ -3,3 +3,5 @@ css
 javascript
 bootstrab
 jquery
+Angular
+ui ux
